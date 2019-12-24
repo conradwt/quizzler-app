@@ -1,4 +1,4 @@
-# Quizzler
+# Quizzler App
 
 <Project Description>
 
@@ -34,11 +34,11 @@ Command + R
 
 Bug reports and feature requests can be filed with the rest for the Ruby on Rails project here:
 
-- [File Bug Reports and Features](https://github.com/conradwt/quizzler/issues)
+- [File Bug Reports and Features](https://github.com/conradwt/quizzler-app/issues)
 
 ## License
 
-Quizzler is released under the [MIT license](https://mit-license.org).
+Quizzler App is released under the [MIT license](https://mit-license.org).
 
 ## Copyright
 
